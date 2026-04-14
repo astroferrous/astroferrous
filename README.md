@@ -1,16 +1,12 @@
-## Hi there 👋
+## Howdy
+I'm Astro:
+NASA astrophysicist and data analytics software dev who likes to click pixels in the 2007 medieval autism simulator Old School RuneScape:
+- https://wiseoldman.net/players/astroferrous
+- https://www.runeprofile.com/Astroferrous
 
-<!--
-**astroferrous/astroferrous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Learning Java for fun through basic RuneLite plugins
+- https://github.com/astroferrous/happy-jewelry
+- https://github.com/astroferrous/personalized-friend-sounds
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm part of the LoanSharks CC and like to post occassional videos:
+- https://www.youtube.com/@Astroferrous

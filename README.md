@@ -8,3 +8,6 @@ Former NASA astrophysicist turned data analytics software dev who likes to click
 Learning Java for fun through basic RuneLite plugins
 - https://github.com/astroferrous/happy-jewelry
 - https://github.com/astroferrous/personalized-friend-sounds
+
+My first community event!
+https://astroferrous.github.io/LoanSharks-Christmas-Cox-2026/
